@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseChat", "MorseChat\MorseChat.csproj", "{4146D184-1874-48E4-982E-E86E14AC1ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseChatTest", "MorseChatTest\MorseChatTest.csproj", "{1E913A81-48E9-4D17-A04E-75EB5F9E098B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4146D184-1874-48E4-982E-E86E14AC1ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4146D184-1874-48E4-982E-E86E14AC1ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4146D184-1874-48E4-982E-E86E14AC1ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4146D184-1874-48E4-982E-E86E14AC1ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E913A81-48E9-4D17-A04E-75EB5F9E098B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E913A81-48E9-4D17-A04E-75EB5F9E098B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E913A81-48E9-4D17-A04E-75EB5F9E098B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E913A81-48E9-4D17-A04E-75EB5F9E098B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
